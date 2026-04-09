@@ -79,7 +79,7 @@ vless://e226046f-6e5e-4b92-a65a-603bcd922ed6@91.135.156.243:8443?security=none&t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZU5QN2pBZjBGem9SamFwNEN6WWZHQzhhTjl2eFp5Mg==@91.135.156.243:9999#vpncherepahi41
 vless://e226046f-6e5e-4b92-a65a-603bcd922ed6@72.56.73.78:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&sid=#vpncherepahi42
 vless://e226046f-6e5e-4b92-a65a-603bcd922ed6@72.56.73.78:8443?security=none&type=ws&headerType=&path=%2Fsubscribe%2Fws&host=&flow=#vpncherepahi43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZU5QN2pBZjBGem9SamFwNEN6WWZHQzhhTjl2eFp5Mg==@5.129.214.44:9999#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20Amsterdam%20%7C%20SS",
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZU5QN2pBZjBGem9SamFwNEN6WWZHQzhhTjl2eFp5Mg==@5.129.214.44:9999#vpncherepahi44
     "vless://e226046f-6e5e-4b92-a65a-603bcd922ed6@51.195.109.34:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&sid=#vpncherepahi44
 vless://e226046f-6e5e-4b92-a65a-603bcd922ed6@51.195.109.34:8443?security=none&type=ws&headerType=&path=%2Fsubscribe%2Fws&host=&flow=#vpncherepahi45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZU5QN2pBZjBGem9SamFwNEN6WWZHQzhhTjl2eFp5Mg==@51.195.109.34:9999#vpncherepahi46
