@@ -5,13 +5,6 @@
 #announce: правила использования VPN не заходить в русские приложения и сайты Например: Max, Яндекс и т.д ❕не перегружать сервера по типу скачивание больших файлов без надобаности vpn ⚪️ значет обход глушки ⚡️ значет скоростной 
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vmess://eyJhZGQiOiJ5ZDMuYWluaXZwLmNvbSIsImFpZCI6IjAiLCJhbGxvd19pbnNlY3VyZSI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMCIsImhvc3QiOiJ5ZDMuYWluaXZwLmNvbSIsImlkIjoiOTIwNGFmY2QtMDI2ZS03ODFmLTFhYmMtYzAzZWZhYmQxMzQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiIzMzQwMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgKEhvdWdhbmcpIHwgW0JMXSIsInNlY3VyaXR5IjoiYXV0byIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=tttyder.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20Mumbai%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.131.228.210:443?security=tls&sni=hyfuuf6.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
-trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=yazhou10.dynu.net#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@121.154.249.1:16010?type=ws&path=%2Ftrojan&security=tls&sni=vpn.rnmcnm.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
-trojan://mitivpn@14.102.228.76:443?security=tls&sni=www.app-cloud.ir&insecure=1&allowInsecure=1&type=ws&path=%2Fhttp%2F1.1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
-trojan://mitivpn@14.102.228.76:443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+hysteria2://6ypPOR3f9o@47.242.216.192:30236?headerType=none&insecure=1&encryption=none&insecure=1&sni=go.microsoft.com&https://t.me/RBCherepahi
+hysteria2://6ypPOR3f9o@47.242.216.192:30236?headerType=none&insecure=1&encryption=none&insecure=1&sni=go.microsoft.com#https://t.me/RBCherepiik
+vpmess://eyJhZGRiOiJ5ZDMuYWluaXZwLmNvbSIsImFpZCI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMCIsImhvc3QiOiJ5ZDMuYWluaXZwLmNvbSIsImlkIjoiOTIwNGFmY2QtMDI2ZS03ODFmLTFhYmMtYzAzZWZhZmQxMzQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiIzMzQwMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgKEhvdWdhbmcpIHwgW0JMXSIsInNlY3VyaXR5IjoiYXV0byIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
