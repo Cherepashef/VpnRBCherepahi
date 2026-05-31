@@ -2,9 +2,17 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/RBCherepahi
 #support-url: https://t.me/RBCherepahi
-#announce: правила использования VPN не заходить в русские приложения и сайты Например: Max, Яндекс и т.д ❕не перегружать сервера по типу скачивание больших файлов без надобаности vpn ⚪️ значет обход глушки ⚡️ значет скоростной 
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-hysteria2://6ypPOR3f9o@47.242.216.192:30236?headerType=none&insecure=1&encryption=none&insecure=1&sni=go.microsoft.com&https://t.me/RBCherepahi
-hysteria2://6ypPOR3f9o@47.242.216.192:30236?headerType=none&insecure=1&encryption=none&insecure=1&sni=go.microsoft.com#https://t.me/RBCherepiik
-vpmess://eyJhZGRiOiJ5ZDMuYWluaXZwLmNvbSIsImFpZCI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMCIsImhvc3QiOiJ5ZDMuYWluaXZwLmNvbSIsImlkIjoiOTIwNGFmY2QtMDI2ZS03ODFmLTFhYmMtYzAzZWZhZmQxMzQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiIzMzQwMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgKEhvdWdhbmcpIHwgW0JMXSIsInNlY3VyaXR5IjoiYXV0byIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+#announce: правила использования VPN не заходить в русские приложения и сайты Например: Max, Яндекс и т.д ❕не перегружать сервера по типу скачивание больших файлов без надобаности vpn 
+#subscription-userinfo: upload=0; download=0; total=5368709120; expire=1779926400
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdVJ5N1MweGpFOEZnOXRt@server99-tr.kvnfreetest.uk:28388#VPN Cherepahi 1
+vless://87e28363-8968-42df-80da-247a646981bf@server99-tr.kvnfreetest.uk:21443?security=reality&type=tcp&headerType=none&path=&host=&sni=cloudflare.com&fp=chrome&pbk=brciXJ5MurnyAIWpq5hhB583WpHM3-SWobb98IV92hI&sid=#VPN Cherepahi 2
+vless://87e28363-8968-42df-80da-247a646981bf@server99-tr.kvnfreetest.uk:22443?security=reality&type=grpc&headerType=&serviceName=GunService&authority=&mode=gun&sni=www.github.com&fp=chrome&pbk=brciXJ5MurnyAIWpq5hhB583WpHM3-SWobb98IV92hI&sid=#VPN Cherepahi 3
+vless://87e28363-8968-42df-80da-247a646981bf@server99-tr.kvnfreetest.uk:22083?security=reality&type=tcp&headerType=&path=&host=&sni=www.amazon.com&fp=chrome&pbk=brciXJ5MurnyAIWpq5hhB583WpHM3-SWobb98IV92hI&sid=b361a36554ed1272#VPN Cherepahi 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSnY4QmhsNkFiRVNpZ2Ra@server-dqlvg-fi.kvncococ.org:28388#VPN Cherepahi 5
+vless://3b80e382-2871-44ea-ab09-3da1776c4a5a@server-dqlvg-fi.kvncococ.org:21443?security=reality&type=tcp&headerType=none&path=&host=&sni=www.discord.com&fp=chrome&pbk=Wbeploj4O8LhJoEvkVxmxgX8GakYGupNCOatWH9eryg&sid=#VPN Cherepahi 6
+vless://3b80e382-2871-44ea-ab09-3da1776c4a5a@server-dqlvg-fi.kvncococ.org:22443?security=reality&type=grpc&headerType=&serviceName=GunService&authority=&mode=gun&sni=github.com&fp=chrome&pbk=Wbeploj4O8LhJoEvkVxmxgX8GakYGupNCOatWH9eryg&sid=#VPN Cherepahi 7
+vless://3b80e382-2871-44ea-ab09-3da1776c4a5a@server-dqlvg-fi.kvncococ.org:22083?security=reality&type=tcp&headerType=&path=&host=&sni=www.google.com&fp=chrome&pbk=Wbeploj4O8LhJoEvkVxmxgX8GakYGupNCOatWH9eryg&sid=21e975738881ef97#VPN Cherepahi 8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRGU2ZENKaGZVcFZ5czR6@vpnserver1775568265nl.kvncococ.org:28388#VPN Cherepahi 9
+vless://98f8429a-618f-4879-b13b-963c9387be6c@vpnserver1775568265nl.kvncococ.org:21443?security=reality&type=tcp&headerType=none&path=&host=&sni=outlook.office.com&fp=chrome&pbk=m1WAiU3rCcjSS69fcO4MvaHNVN36NaCTmB2Amzjgclw&sid=#VPN Cherepahi 10
+vless://98f8429a-618f-4879-b13b-963c9387be6c@vpnserver1775568265nl.kvncococ.org:22443?security=reality&type=grpc&headerType=&serviceName=GunService&authority=&mode=gun&sni=appleid.apple.com&fp=chrome&pbk=m1WAiU3rCcjSS69fcO4MvaHNVN36NaCTmB2Amzjgclw&sid=#VPN Cherepahi 11
+vless://98f8429a-618f-4879-b13b-963c9387be6c@vpnserver1775568265nl.kvncococ.org:22083?security=reality&type=tcp&headerType=&path=&host=&sni=google.com&fp=chrome&pbk=m1WAiU3rCcjSS69fcO4MvaHNVN36NaCTmB2Amzjgclw&sid=e55976dbe9324723#VPN Cherepahi 12
