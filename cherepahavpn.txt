@@ -3,7 +3,6 @@
 #profile-web-page-url: https://t.me/RBCherepahi
 #support-url: https://t.me/RBCherepahi
 #announce: правила использования VPN не заходить в русские приложения и сайты Например: Max, Яндекс и т.д ❕не перегружать сервера по типу скачивание больших файлов без надобаности vpn 
-#subscription-userinfo: upload=0; download=0; total=5368709120; expire=1779926400
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdVJ5N1MweGpFOEZnOXRt@server99-tr.kvnfreetest.uk:28388#VPN Cherepahi 1
 vless://87e28363-8968-42df-80da-247a646981bf@server99-tr.kvnfreetest.uk:21443?security=reality&type=tcp&headerType=none&path=&host=&sni=cloudflare.com&fp=chrome&pbk=brciXJ5MurnyAIWpq5hhB583WpHM3-SWobb98IV92hI&sid=#VPN Cherepahi 2
 vless://87e28363-8968-42df-80da-247a646981bf@server99-tr.kvnfreetest.uk:22443?security=reality&type=grpc&headerType=&serviceName=GunService&authority=&mode=gun&sni=www.github.com&fp=chrome&pbk=brciXJ5MurnyAIWpq5hhB583WpHM3-SWobb98IV92hI&sid=#VPN Cherepahi 3
