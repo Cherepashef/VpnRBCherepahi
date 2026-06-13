@@ -1,1 +1,6 @@
-placeholder
+#profile-title: RBCherepahivpnfree
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/RBCherepahi
+#support-url: https://t.me/RBCherepahi
+#announce: правила использования VPN не заходить в русские приложения и сайты Например: Max, Яндекс и т.д ❕не перегружать сервера по типу скачивание больших файлов без надобаности vpn ⚪️ значет обход глушки ⚡️ значет скоростной 
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
