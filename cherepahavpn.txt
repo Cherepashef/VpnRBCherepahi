@@ -3,7 +3,4 @@ profile-title: RBCherepahivpnfree
 #profile-web-page-url: https://t.me/RBCherepahi
 #support-url: https://t.me/RBCherepahi
 #announce: правила использования VPN не заходить в русские приложения и сайты Например: Max, Яндекс и т.д 
-vless://5a90c03f-c3fd-4c8e-aecc-62f8174b194c@64.188.66.40:9096?security=reality&encryption=none&pbk=JASBooze12B0nAaLU2QMWkeAqXwh4GmhfPD_O9YteT0&headerType=grpc&serviceName=inetgrpc&authority=www.cloudflare.com&sni=www.cloudflare.com&fp=edge&type=grpcускоренный режим 
-vless://5a90c03f-c3fd-4c8e-aecc-62f8174b194c@tw.inetdostup.com:14443?encryption=none&security=tls&sni=tw.inetdostup.com&fp=edge&type=ws&path=%2Fobhod&host=tw.inetdostup.comавто обход
-vless://5a90c03f-c3fd-4c8e-aecc-62f8174b194c@tw.inetdostup.com:14443?encryption=none&security=tls&sni=tw.inetdostup.com&fp=edge&type=ws&path=%2Fde&host=tw.inetdostup.com#обход
-vless://5a90c03f-c3fd-4c8e-aecc-62f8174b194c@tw.inetdostup.com:14443?encryption=none&security=tls&sni=tw.inetdostup.com&fp=edge&type=ws&path=%2Fauto&host=tw.inetdostup.comавто ускоренный
+vless://5a90c03f-c3fd-4c8e-aecc-62f8174b194c@tw.inetdostup.com:14443?type=ws&security=tls&fp=edge&sni=tw.inetdostup.com&path=%2Fde&host=tw.inetdostup.com&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA+%F0%9F%9F%A2+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9
